@@ -20,8 +20,8 @@ Quick helper for OSCP-style labs:
 ## Install
 
 ```bash
-git clone <repo-url>
-cd <repo>
+git clone https://github.com/0xBash1127/OSCP-Toolkit.git
+cd OSCP-toolkit
 pip install -r requirements.txt
 chmod +x oscp_toolkit.py
 ```
