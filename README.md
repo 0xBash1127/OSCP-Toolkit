@@ -1,7 +1,3 @@
-Got it — here’s a **short, straight-to-the-point README** with only what’s needed.
-
----
-
 # OSCP Toolkit
 
 Quick helper for OSCP-style labs:
@@ -56,7 +52,3 @@ Menu:
 **File Transfer** → copies one-liner & starts HTTP server
 **Ligolo setup** → runs proxy, stages agent for download
 **Reverse Shell** → launches generator on `http://127.0.0.1`
-
----
-
-Do you want me to **also shrink your code** so it’s just the essentials without the extra complexity? That would make it match this short README perfectly.
